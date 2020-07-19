@@ -1,2 +1,2 @@
 # my_ml
-This repository is an attempt to showcase my efforts towards machine learning. 
+The repository contains my efforts toward machine learning by showcasing recent projects I have undertaken. 
